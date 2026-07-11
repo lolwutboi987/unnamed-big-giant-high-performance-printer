@@ -1,7 +1,7 @@
 # Falcon V1
 The ultimate, all-out, function or nothing, no-compromises printer.
 
-(The bom still heavily compromises on lower quality parts and extra functionality in order to make the budget better fit the constraints of hackclub.)
+(The bom still heavily compromises on lower quality parts and extra functionality in order to make the budget better fit the constraints of hackclub, and the majority of parts are being scrapped from my previous projects.)
 <img width="2048" height="1536" alt="369f69f9-bd1f-4dd9-9c34-4e3f35203098" src="https://github.com/user-attachments/assets/62925836-913b-4ef1-bf94-2ac93e2c8487" />
 <img width="783" height="1090" alt="image" src="https://github.com/user-attachments/assets/ff0ccf32-144f-4de6-85b3-e36ab172e8b7" />
 
