@@ -2,23 +2,40 @@
 #### Time spent in CAD: 60 Hours
 #### Estimated time spent in total (including research, journaling, shopping): ~100+
 Historically, hackclub hardware projects are notorious for not being completed or built after submission and purchase of parts. The ones that are,
-often end up forgotten, abandoned, or scrapped. I too am guilty of this, with my previous machines being salvaged for future projects in order to
+often end up forgotten, abandoned, or scrapped. 
+I too am guilty of this, with my previous machines being salvaged for future projects in order to
 save costs and budget, and because the past projects have either reached the end of their service/utility lives or serve no practical use in the future.
-With outpost's extended budget, I wanted to try something new. A project that is useful, a project that lasts, and a project that can continue to be a project for many years into the future. A no-compromises, all out project that represents the absolute limit of my creativity and skill. I decided, with
- the current toolchanger arms race kicked off by bondtech's INDX, snapmaker's U1 system, and bambulab's Vortek, I wanted to prove that open-source, democratized printers don't need to live in the past, and that I would create something that is both affordable, and functional. To lay it out, this machine
-is build around the same spirit as the CORE ONE L INDX, bambulab H2C, PRUSA XL, and ZeroG mercury one. I decided i would build the machine around a modified skeleton of an old Ender 5 plus, a very popular and affordable legacy large format fdm printer. I also set the design targets (specs) as so:
+
+With outpost's extended budget, I wanted to try something new. A project that is useful, a project that lasts, and a project that can continue to be a project for many years into the future. A no-compromises, all out project that represents the absolute limit of my creativity and skill.
+
+I decided, with the current toolchanger arms race kicked off by bondtech's INDX, snapmaker's U1 system, and bambulab's Vortek, I wanted to prove that open-source, democratized printers don't need to live in the past, and that I would create something that is both affordable, and functional.
+
+To lay it out, this machine
+is built around the same spirit as the CORE ONE L INDX, bambulab H2C, PRUSA XL, and ZeroG mercury one. I decided i would build the machine around a modified skeleton of an old Ender 5 plus, a very popular and affordable legacy large format fdm printer. I also set the design targets (specs) as so:
+
 377x377x400MM build volume
+
 Corexy, Closed loop servo system
+
 9MM belt system gantry with liveshafts and double shear
+
 High Temperature Carbon fiber X-axis tube
+
 1KW mains bed
+
 800W chamber heating system with intelligent power-sharing with the bed and hotends to allow dynamically set power limits
+
 Muffled CPAP cooling system
+
 Chamber ventilation
+
 Structural steel panels
+
 This project was created from a culmination of short logins and a variation of extended, and brief efforts, Some simple parts may take near months, 
-and some complexx parts have been done in a matter of minutes due to fluctuations in concentration and work enviroment. There is no hour-to-dollar ratio, 
+and some complex parts have been done in a matter of minutes due to fluctuations in concentration and work enviroment.
+There is no hour-to-dollar ratio, 
 so it's not like there's any point in frauding hours anyhow. 
+
 <img width="1318" height="752" alt="image" src="https://github.com/user-attachments/assets/733f8ba0-487a-4d51-88ff-0e059a437c9e" />
 please dont overfeed your 3d printer.
 ## Part 1: The body (5/9/26-5/15/26)
